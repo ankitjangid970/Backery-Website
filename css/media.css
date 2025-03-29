@@ -1,0 +1,349 @@
+@media screen and (min-width: 0px) and (max-width: 576px) {
+  .sec2 .nav {
+    display: none;
+  }
+  .sec2a {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  .sec {
+    display: none;
+  }
+  .sec2 .i {
+    display: block;
+  }
+  .section1-1 {
+    max-width: 540px;
+    margin: auto;
+  }
+  .heading h1 {
+    font-size: 50px;
+  }
+  .contant {
+    max-width: 540px;
+  }
+  .contant img {
+    display: none;
+  }
+  .contaner1 {
+    max-width: 540px;
+  }
+
+  .cont2-1 {
+    width: 100%;
+  }
+  .conta2 {
+    flex-direction: column;
+  }
+  .cont2a1-1 {
+    flex-direction: column;
+  }
+  .cont2a1-left {
+    width: 100%;
+  }
+  .cont2a1-right {
+    width: 100%;
+  }
+
+  .cont3a3-1 {
+    max-width: 540px;
+  }
+  .cont4a1 h1 {
+    font-size: 36px;
+  }
+  .cont4a2 {
+    flex-wrap: wrap;
+  }
+  .cont4a2-1 {
+    width: 95%;
+    margin: auto;
+  }
+  .cont5row {
+    flex-wrap: wrap;
+  }
+  .cont5a1 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .contaner5 {
+    padding: 0px 15px;
+  }
+  .footer1 {
+    max-width: 540px;
+  }
+  .containert {
+    max-width: 540px;
+    padding: 10px 10px;
+  }
+  .contt3 p {
+    font-size: 14px;
+  }
+  .contt4 {
+    flex-direction: column;
+    margin: auto;
+  }
+  .contt5 {
+    max-width: 100%;
+  }
+  .rowm {
+    max-width: 540px;
+    margin: auto;
+  }
+  .nav-menu {
+    gap: 10px;
+  }
+  .amenua {
+    max-width: 510px;
+  }
+  .menulist {
+    flex-direction: column;
+  }
+  .menu4 {
+    max-width: 100%;
+    padding-bottom: 20px;
+  }
+  .menu5 {
+    gap: 85%;
+    justify-content: center;
+  }
+  .contact {
+    max-width: 540px;
+    margin: auto;
+  }
+  .containerc {
+    max-width: 540px;
+  }
+  .row1 {
+    max-width: 540px;
+    flex-direction: column;
+  }
+  .mapc {
+    max-width: 540px;
+  }
+  .mapc2 {
+    max-width: 540px;
+  }
+  .mapc3 {
+    max-width: 540px;
+  }
+  .mappart2 {
+    max-width: 540px;
+    margin: auto;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+  .ml {
+    max-width: 100%;
+  }
+  .ml input {
+    max-width: 100%;
+  }
+  .ml2 {
+    max-width: 100%;
+  }
+  .ml2 textarea {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .contact {
+    max-width: 540px;
+    margin: auto;
+  }
+  .containerc {
+    max-width: 540px;
+  }
+  .row1 {
+    max-width: 540px;
+    flex-direction: column;
+  }
+  .mapc {
+    max-width: 540px;
+  }
+  .mapc2 {
+    max-width: 540px;
+  }
+  .mapc3 {
+    max-width: 540px;
+  }
+  .mappart2 {
+    max-width: 540px;
+    margin: auto;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+  .ml {
+    max-width: 100%;
+  }
+  .ml input {
+    max-width: 100%;
+  }
+  .ml2 {
+    max-width: 100%;
+  }
+  .ml2 textarea {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .mleft {
+    max-width: 100%;
+  }
+  .mright {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  .sec2 .nav {
+    display: none;
+  }
+  .sec {
+    display: none;
+  }
+  .sec2 .i {
+    display: block;
+  }
+  .section1-1 {
+    max-width: 720px;
+    margin: auto;
+  }
+  .heading h1 {
+    font-size: 50px;
+  }
+  .sec2a {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  .contant img {
+    width: 20%;
+    top: 450px;
+  }
+  .contaner1 {
+    max-width: 720px;
+  }
+  .cont2-1 {
+    width: 50%;
+  }
+  .conta2 {
+    flex-wrap: wrap;
+  }
+  .cont2a1-1 {
+    flex-direction: column;
+  }
+  .cont2a1-left {
+    width: 100%;
+  }
+  .cont2a1-right {
+    width: 100%;
+    flex-grow: 1;
+    background-size: cover;
+  }
+
+  .cont3a3-1 {
+    max-width: 720px;
+  }
+  .cont4a1 h1 {
+    font-size: 36px;
+    max-width: 540px;
+    margin: auto;
+  }
+  .cont4a1 p {
+    max-width: 540px;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+  .cont4a2 {
+    flex-wrap: wrap;
+  }
+  .cont4a2-2 {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .cont4a2-1 {
+    margin: auto;
+  }
+  .cont5row {
+    flex-wrap: wrap;
+  }
+  .cont5a1 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .contaner5 {
+    padding: 0px 15px;
+  }
+  .footer1 {
+    max-width: 720px;
+  }
+  .containert {
+    max-width: 720px;
+    padding: 10px 10px;
+  }
+  .contt4 {
+    margin: auto;
+    justify-content: space-evenly;
+    gap: 10px;
+  }
+  .contt5 {
+    max-width: 50%;
+  }
+  .menulist {
+    flex-direction: column;
+  }
+  .menu4 {
+    max-width: 100%;
+    padding-bottom: 20px;
+  }
+  .menu5 {
+    gap: 85%;
+    justify-content: center;
+  }
+  .contact {
+    max-width: 720px;
+    margin: auto;
+  }
+  .containerc {
+    max-width: 720px;
+  }
+  .row1 {
+    max-width: 720px;
+    flex-direction: column;
+  }
+  .mapc {
+    max-width: 720px;
+  }
+  .mapc2 {
+    max-width: 720px;
+  }
+  .mapc3 {
+    max-width: 720px;
+  }
+  .mappart2 {
+    max-width: 720px;
+    margin: auto;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+  .ml {
+    max-width: 100%;
+  }
+  .ml input {
+    max-width: 100%;
+  }
+  .ml2 {
+    max-width: 100%;
+  }
+  .ml2 textarea {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .mleft {
+    max-width: 100%;
+  }
+  .mright {
+    max-width: 100%;
+  }
+}
